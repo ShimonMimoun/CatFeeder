@@ -39,6 +39,6 @@ To run it you need to run `npm start` for the client part and for the server par
 
 
 ## Login Page
-***In this page  you can see:***
-Table with all the uses of the cat in the feeding system with details like: weight, time, name of cat etc.
+***In this page  you can see:*** <br/>
+Table with all the uses of the cat in the feeding system with details like: weight, time, name of cat etc.<br/>
 ![LoginTable](https://user-images.githubusercontent.com/44939883/88583469-fa1b1600-d058-11ea-8179-f6d6d42e8eb1.JPG)
