@@ -21,7 +21,7 @@ To run it you need to run `npm start` for the client part and for the server par
 
 ## Home Page
 
- ***In Home page you can:***: 
+ ***Feture In Home page :***
  - Giving permission or not giving permission for a cat to eat . 
  - Add new cat. 
  - Deleting exsisting cat. 
