@@ -9,3 +9,9 @@ To run it you need to run `npm start` for the client part and for the server par
 ![landingPage](https://user-images.githubusercontent.com/44939883/88576264-d56d7100-d04d-11ea-9b96-4d413e737def.JPG)
 
 ![landingPage1](https://user-images.githubusercontent.com/44939883/88577179-44979500-d04f-11ea-9b41-0649ae6d8c62.JPG)
+
+![landingPage3](https://user-images.githubusercontent.com/44939883/88577825-4a41aa80-d050-11ea-91c5-5a55c990d35d.JPG)
+
+## Register Page
+
+## SignIn Page
