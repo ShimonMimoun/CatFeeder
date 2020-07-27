@@ -31,8 +31,11 @@ To run it you need to run `npm start` for the client part and for the server par
 ![homePage](https://user-images.githubusercontent.com/44939883/88581841-6c3e2b80-d056-11ea-91cc-768994827a2e.JPG)
 ## AboutCat Page
  ***In this page  you can see:***
- - Up-to-date cat weightץ
+ - Up-to-date cat weight.
  - The last time the cat ate. 
  - Cat age. 
  
 ![AboutCat](https://user-images.githubusercontent.com/44939883/88582821-f89d1e00-d057-11ea-9ee8-34c4d9b0802c.JPG)
+
+
+## Login Page
